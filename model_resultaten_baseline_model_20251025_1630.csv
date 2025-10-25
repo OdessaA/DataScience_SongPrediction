@@ -1,0 +1,4 @@
+Model,R²,RMSE,Versie,Datum
+Baseline (mean),-0.0,20.03,baseline_model,20251025_1630
+Lineaire regressie,0.0291,19.74,baseline_model,20251025_1630
+Random Forest,0.067,19.35,baseline_model,20251025_1630
